@@ -1,5 +1,5 @@
 # Bienvenido a mi  GITHUB  👋
-===========================================
+
 <!--
 >>>>>>> a930d72024ebb667d8fc709e90084b585f0861da
 <!--**robertoBCV/robertoBCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,16 +35,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Badge"/>
   <img src="https://img.shields.io/badge/facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
 </div>
-
-Editores de código
-<p align="left">
+<div id="header" align="center">
+<h2>Editores de código
+<p align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a>
 </p>
-Lenguajes de maketado
-<p align="left">
+</div>
+<div id="header" align="center">
+<h2>Lenguajes de maketado
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"></a>
 </p>
-IoT<br>
-<a>
+</div>
+<div id="header" align="center">
+<h2>IoT<br>
+<p align="center">
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
+</p>
+</div>
 
