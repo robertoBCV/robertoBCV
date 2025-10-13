@@ -53,8 +53,45 @@ Here are some ideas to get you started:
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
 </p>
 </div>
-<div align="Center">
 
+  
+<h2>Proyectos</h2>
+<table>
+  <tr>
+    <!-- Kotlin -->
+    <td width="33%" valign="top">
+      <a href="https://github.com/search?q=user%3Arobertobcv+topic%3Akotlin&type=repositories&s=updated&o=desc"
+         target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;">
+        <h3>Curso de Kotlin</h3>
+        <img src="assets/kotlin.png" alt="Kotlin" width="100%">
+        <p>Ejercicios y proyectos en Kotlin.</p>
+      </a>
+    </td>
+
+    <!-- Arduino -->
+    <td width="33%" valign="top">
+      <a href="https://github.com/search?q=user%3Arobertobcv+arduino&type=repositories&s=updated&o=desc"
+         target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;">
+        <h3>Curso de Arduino</h3>
+        <img src="assets/arduino.png" alt="Arduino" width="100%">
+        <p>Proyectos con IDE de Arduino y Fritzing.</p>
+      </a>
+    </td>
+
+    <!-- Git / GitHub -->
+    <td width="33%" valign="top">
+      <a href="https://github.com/search?q=user%3Arobertobcv+git&type=repositories&s=updated&o=desc"
+         target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;">
+        <h3>Curso de Git, GitHub y Git Bash</h3>
+        <img src="assets/git.png" alt="Git" width="100%">
+        <p>Prácticas de Git y publicación en GitHub.</p>
+      </a>
+    </td>
+  </tr>
+</table>
+
+  
+<div align="Center">
 | RobertobCV's Stats | Ultimate Streak |
 | ------------- | ------------- |
 | ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=robertobcv&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertobcv&theme=onedark&hide_border=true) 
