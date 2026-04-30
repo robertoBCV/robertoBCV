@@ -1,6 +1,6 @@
 # Bienvenido a mi  GITHUB  👋
 
-
+<--
 >>>>>>> a930d72024ebb667d8fc709e90084b585f0861da
 <!--**robertoBCV/robertoBCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ....
 - ⚡ Fun fact: ...
-
+-->
 ![banner](github-banner.png)
 <div id="header" align="center">
   <h2>Lenguajes de programación</h2>
