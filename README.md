@@ -28,11 +28,7 @@ Here are some ideas to get you started:
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a>
   </p>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDEycG5mbjkxN3d1azR6ZW94MHMyMDU5ZGJ4Z3JycGdwZmc5amlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="200"/>
-</div>
-  
-
-  
+ 
 
   <!-- gifphy-->
   </p>
