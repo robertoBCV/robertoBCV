@@ -1,5 +1,6 @@
+<!--
 # Bienvenido a mi  GITHUB  👋
-
+-->
 <!--
 >>>>>>> a930d72024ebb667d8fc709e90084b585f0861da
 <!--**robertoBCV/robertoBCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ....
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <h1>Bienvenido a mi  GITHUB  👋</h1>
+</div>
+
 ![banner](github-banner.png)
 <div id="header" align="center">
   <h2>Lenguajes de programación</h2>
